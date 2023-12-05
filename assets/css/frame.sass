@@ -4,14 +4,15 @@
 @import index, font, basic, layout, classes
 
 html
-  background: #f8f8f8
+  background_blend_mode: $darken
+  background: $darkgrey
   padding: 0 calc(38% - 22em)
 
 body
   box-shadow: 0 0 .3em lighten($dark, 65%)
 
 body > header, body > footer
-  background: #181818
+  background: $lighten($dark, 45%)
   color: $light
 
 @media (min-width: 32em)
@@ -22,4 +23,4 @@ body > header, body > footer
   body, body > header, body > footer
     box-shadow: 0 0 0 1px lighten($dark, 8%)
   html, body > header, body > footer
-    background: $light
+    background: $dark
