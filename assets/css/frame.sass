@@ -3,28 +3,26 @@
 
 @import index, font, basic, layout, classes
 
-@media (min-width: 40em)
-  body > header, body > article, body > footer
-    padding: 1.75em calc(22% - 6em)
-    background: #1df700
+$bgcolor: #e9ede4
 
-    {% if site.minimal %}
+html
+  backgroung: $bgcolor
+  padding: 0 calc(38% - 22em)
 
-    body > header
-      background: #0031f7
-      color: #0031f7
-      border-bottom: 1px solid reduce(14)
+body
+  body-shadow: 0 0 .3em lighten($dark, 65%)
+    
+body > header, body > article, body > footer
+  background: lighten($dark, 45%)
+  color: $light
 
-      {% else %}
+ @media (min-width: 32em)
+    body > header, body > article, body > footer
+      padding: 1.75em calc(22% - 6em)
 
-      body > header
-        box-shadow: 0 0 .6em rgba($dark, 0.04)
-        border-bottom: 1px solid reduce(14)
-
-      {% endif %}
-
-      body > footer
-        box-shadow: 0 0 .6em rgba($dark, 0.04) inset
-        border-top: 1px solid reduce(14)
-        opacity: .9
+ @media (prefers-color-scheme: $dark)
+    body > header, body > article, body > footer
+      box-shaddow: 0 0 0 1px lighten($dark, 8%)
+    html, body > header, body > footer
+      background: $dark
 
