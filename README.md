@@ -4,7 +4,8 @@ permalink: "/title/"
 layout: page
 ---
 
-[public domain](declinaison-logo-nutriscore.jpg) 
+![screenshot](declinaison-logo-nutriscore.jpg)
+
 ## Installation
 
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
