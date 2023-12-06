@@ -16,9 +16,9 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html", title: "Contenu"}
-  - {file: "README.md", title: "Partie"} 
-  - {file: "intro.md", title: "Intro"}
+  - {file: "README.md", title: "Plan"}
+  - {file: "index.html", title: "Sondage"} 
+  - {file: "intro.md", title: "Résultats"}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:niklasbuschmann@users.noreply.github.com"}
   - {title: Github, icon: github, url: "https://github.com/niklasbuschmann/contrast"}
