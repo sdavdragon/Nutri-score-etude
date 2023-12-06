@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Intro"
+title: "Résultats"
 ---
 
 {% if site.show_excerpts %}
