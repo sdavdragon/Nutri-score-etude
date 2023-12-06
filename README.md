@@ -1,6 +1,6 @@
 ---
 title: "Nutri-score: un outil pour mieux manger ?"
-permalink: "/title/"
+permalink: "/about/"
 layout: page
 ---
 
