@@ -2,7 +2,7 @@
 layout: default
 title: "Résultats"
 ---
-
+# Title
 {% if site.show_excerpts %}
   {% include home.html %}
 {% else %}
