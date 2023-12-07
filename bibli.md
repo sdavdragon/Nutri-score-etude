@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Synthèse des Résultats
+title: Nutri-score: un outil pour mieux manger ?
 ---
