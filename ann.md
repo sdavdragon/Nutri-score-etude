@@ -1,7 +1,7 @@
 --- 
-title: Nutri-score : un outil pour mieux manger ?
+title: 'Nutri-score : un outil pour mieux manger ?'
 permalink: "/title/"
-layout: paage
+layout: page
 --- 
 
 ![screenshot](declinaison-logo-nutriscore.jpg)
