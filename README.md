@@ -36,10 +36,6 @@ Le niveau de sensibilisation du public à l'égard du Nutri-Score est significat
  
 De plus, le rapport 2020 de Santé publique France met en avant le degré élevé de de compréhension effective du logo nutritionnel. En effet 90 % des Français présentent le Nutri-Score comme permettant d'évaluer la qualité nutritionnelle des produits alimentaires, avec une augmentation de 4 points par rapport à mai 2019 (Santé Publique France, 2020). Similairement, 66 % des personnes interrogées associaient spontanément le Nutri-Score à sa fonction d'information sur la "composition et qualité nutritionnelle du produit" (ibid.). Le format du Nutri-Score est également présenté comme facilement identifiable et compréhensible (Chantal et al., 2018).
 Au vu des enjeux liés au Nutri-Score abordés jusqu'ici, il semblerait que plusieurs questionnements persistent. **Le déploiement du Nutri-Score est interrogé au regard de sa capacité à modifier réellement les comportements et choix de consommation et représente l’objet de notre étude présentée ci-dessous.** 
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
-
-
-![Final video of fixing issues in your code in VS Code](https://www.youtube.com/watch?v=_zVlryawyVU/maxresdefault.jpg)
 
 
 
