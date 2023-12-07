@@ -41,4 +41,6 @@ Au vu des enjeux liés au Nutri-Score abordés jusqu'ici, il semblerait que plus
 
 
 
+
+
 Kaoutar Laklalech - Sofya Davidovich - Raja Madani - Pauline Chatail - Célia Outemzabet - Yeon Hwa Kim
