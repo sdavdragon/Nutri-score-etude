@@ -39,7 +39,8 @@ Au vu des enjeux liés au Nutri-Score abordés jusqu'ici, il semblerait que plus
 ![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
 
 
-
+[![Final video of fixing issues in your code in VS Code](https://img.youtube.com/vi/JLMbpiywVxQ/maxresdefault.jpg)]
+(https://www.youtube.com/watch?v=JLMbpiywVxQ)
 
 
 
