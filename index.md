@@ -92,3 +92,13 @@ De même, notre enquête met en lumière un pic d'utilisation du Nutri-Score che
 Les résultats sur l'impact à long terme du Nutri-Score sur le changement des habitudes alimentaires présentent des conclusions contrastées : 45% des personnes interrogées via le questionnaire indiquent que le Nutri-Score ne contribue pas à modifier de manière durable certaines de leurs habitudes alimentaires, tandis que 54% affirment qu'il contribue déjà ou contribuera à l'avenir.
 
 Les résultats que nous avons obtenus sont significativement moins élevés que ceux présentés dans l'étude de Santé Publique France (2021), où 57 % des personnes interrogées ont déclaré que le Nutri-Score avait contribué à changer leurs habitudes d'achat (contre 41% dans notre étude).
+
+![screenshot](grrrrr.png)
+
+La fonction informative du Nutri-Score quant à la qualité nutritionnelle des produits achetés est validée : parmi les personnes qui font toujours attention à leur alimentation, 60% déclarent que le Nutri-Score a effectivement modifié certaines de leurs habitudes alimentaires à long terme. Cependant, chez ceux qui ne prêtent pas ou prêtent occasionnellement attention à leur alimentation, respectivement 100% et 53% des répondants affirment que le Nutri-Score n'a pas eu d'influence sur leurs habitudes alimentaires et n'en aura pas à l'avenir. Il est important de noter que même chez les utilisateurs assidus du Nutri-Score, ce dernier n’a pas toujours un impact significatif sur les habitudes alimentaires. En effet, cela est illustré par les propos de notre consommatrice interrogée, pourtant adepte du Nutri-Score, qui affirme : “J’y fais attention mais ça m’arrive aussi de voir qu’un produit qui m’est nécessaire n’est pas très bien noté et je ne me sens pas non plus dévastée quand ça arrive, ce n’est pas quelque chose qui m’importe autant que ça.”
+
+La sensibilité du consommateur quant à la qualité nutritionnelle des produits alimentaires qu’il consomme semble alors jouer un rôle important dans l'adoption et l'appropriation effective du Nutri-Score, bien que ce résultat soit tout de même soumis à certaines limites.
+
+#### Arbitrage entre la présence et l'absence du Nutri-Score lors du choix
+
+Lorsqu'on leur demande de choisir entre un produit noté A/B et un produit sans Nutri-Score, la moitié des personnes interrogées via le questionnaire ne prêtent pas attention à la présence ou non du logo lors de leurs achats (51%). Pour l'autre moitié, l'attention accordée varie : 34% optent fréquemment et 15% choisissent toujours le produit arborant le Nutri-Score.
