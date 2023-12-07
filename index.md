@@ -68,3 +68,15 @@ En effet, 78% des sondés pensent que cet indicateur est informatif. Le Nutri-Sc
 ![screenshot](graphique.png)
 
 Enfin, 84% des sondés sont favorables à l’apposition du Nutri-Score sur les emballages, sans pour autant nécessairement le rendre obligatoire.
+
+### b. L’impact sur les habitudes alimentaires
+
+#### Faire des choix alimentaires plus éclairés
+
+Le Nutri-Score vise à améliorer la clarté des informations nutritionnelles des produits et à encourager les consommateurs à opter pour des produits mieux notés sur le plan nutritionnel, par rapport à leurs alternatives moins bien notées, facilitant ainsi la prise de décision dans leurs choix de consommation. Le Nutri-Score fonctionne selon le principe du "nudging" (DELHOMME et al., 2020), car il vise à influencer les choix alimentaires des consommateurs au travers d’une colorimétrie stratégique, le vert étant associé à “l'approbation" et le rouge à "l'interdiction". 
+
+Dans le cadre de notre étude, les résultats soulignent l'effet incitatif des scores Nutri-Score pour orienter les consommateurs vers des choix nutritionnellement plus sains. En effet, 73% des personnes interrogées ont affirmé que le Nutri-Score les encourage à opter pour des produits présentant les meilleurs scores nutritionnels. Il en est de même pour la consommatrice interrogée qui a insisté sur l’importance du Nutri-Score dans le choix de ses produits : “pour quelque chose que j’achète beaucoup, ça va être important pour moi de trouver dans la gamme du magasin le produit le mieux noté”. Notons cependant qu’une frange relativement importante des jeunes interrogés (19%) rapportent que la présence du Nutri-Score ne les incite pas à choisir les produits les mieux notés sur le plan nutritionnel. 
+
+On constate des disparités liées au lieu de résidence, puisque, pour les individus résidant en région parisienne et dans de grandes villes, respectivement 76% et 72% déclarent que le Nutri-Score les a déjà incités à orienter leurs choix de consommation vers des produits affichant un meilleur notation Nutri-Score au sein d'une même catégorie de produits. En revanche, en milieu rural ou dans de petites villes, ce pourcentage n'est que de 33% (un écart qui mériterait une analyse approfondie dans des études futures). 
+
+De même, notre enquête met en lumière un pic d'utilisation du Nutri-Score chez les 22-25 ans pour effectuer des choix alimentaires plus sains, avec 83% d'entre eux déclarant que le Nutri-Score les a déjà encouragés à privilégier des produits affichant un meilleur score nutritionnel au sein d'une même catégorie.
