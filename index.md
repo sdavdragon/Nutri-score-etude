@@ -69,6 +69,8 @@ En effet, 78% des sondés pensent que cet indicateur est informatif. Le Nutri-Sc
 
 Enfin, 84% des sondés sont favorables à l’apposition du Nutri-Score sur les emballages, sans pour autant nécessairement le rendre obligatoire.
 
+![screenshot](grapht.png)
+
 ### b. L’impact sur les habitudes alimentaires
 
 #### Faire des choix alimentaires plus éclairés
