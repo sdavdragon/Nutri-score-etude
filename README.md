@@ -38,5 +38,4 @@ De plus, le rapport 2020 de Santé publique France met en avant le degré élev�
 Au vu des enjeux liés au Nutri-Score abordés jusqu'ici, il semblerait que plusieurs questionnements persistent. **Le déploiement du Nutri-Score est interrogé au regard de sa capacité à modifier réellement les comportements et choix de consommation et représente l’objet de notre étude présentée ci-dessous.** 
  
 
-
 Kaoutar Laklalech - Sofya Davidovich - Raja Madani - Pauline Chatail - Célia Outemzabet - Yeon Hwa Kim
