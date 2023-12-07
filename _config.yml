@@ -19,7 +19,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: "I. Présentation"}
   - {file: "index.html", title: "II. Notre Etude"} 
   - {file: "doc.md", title: "III. Résultats"}
-  - {file: "bibli.md", title: "IV. Bibliographie"}
+  - {file: "bibli.html", title: "IV. Bibliographie"}
   - {file: "ann.md", title: "V. Annexe"}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/sdavdragon/contrast"}
