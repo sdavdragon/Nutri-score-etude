@@ -102,3 +102,9 @@ La sensibilité du consommateur quant à la qualité nutritionnelle des produits
 #### Arbitrage entre la présence et l'absence du Nutri-Score lors du choix
 
 Lorsqu'on leur demande de choisir entre un produit noté A/B et un produit sans Nutri-Score, la moitié des personnes interrogées via le questionnaire ne prêtent pas attention à la présence ou non du logo lors de leurs achats (51%). Pour l'autre moitié, l'attention accordée varie : 34% optent fréquemment et 15% choisissent toujours le produit arborant le Nutri-Score.
+
+![screenshot](att.png)
+
+Ces conclusions sont consistantes avec les résultats de l'étude de Santé Publique France (2020), où 57% des répondants, confrontés au choix entre un produit affichant le Nutri-Score et un produit sans le logo, indiquent que la présence du Nutri-Score ne les dissuade pas d'acheter un produit sans ce logo. 
+
+De plus, 83% des jeunes interrogés à travers notre questionnaire ont déclaré que l'absence du Nutri-Score ne les incitait pas à renoncer à l'achat, tandis que 8,5% ont indiqué avoir déjà renoncé à l'achat du produit dans ce contexte (résultats significativement inférieurs à ceux de l'étude de 2020 de Santé Publique France, qui était de 18,1%).
