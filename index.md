@@ -71,6 +71,8 @@ Enfin, 84% des sondés sont favorables à l’apposition du Nutri-Score sur les 
 
 ![screenshot](grapht.png)
 
+Les études quantitatives et qualitatives ont finalement montré que les jeunes consommateurs ont une bonne compréhension des enjeux et des objectifs liés au Nutri-Score. Cet outil a été présenté comme un indicateur servant à évaluer la pertinence nutritionnelle d’un aliment, avec une lettre de A à F et une certaine colorimétrie. Ces deux études ont également mis en évidence les craintes naissantes concernant l’indicateur, qui ne prendrait pas en compte “le niveau de transformation des aliments dont sont issus les nutriments, ni les éventuels additifs nocifs”. Ce scepticisme est également lié à la fiabilité de l’indicateur qui, pour certains, pourrait n’être qu’un outil promotionnel pour les marques et les enseignes. Malgré tout, le Nutri-Score reste un outil jugé indispensable, grâce à sa simplicité et son apport pour la santé.
+
 ### b. L’impact sur les habitudes alimentaires
 
 #### Faire des choix alimentaires plus éclairés
