@@ -7,7 +7,7 @@ layout: page
 ![screenshot](declinaison-logo-nutriscore.jpg)
 
 # I. Présentation
-## 1. Enjeux alimentaires et présentation du Nutri-Score
+## 1) Enjeux alimentaires et présentation du Nutri-Score
 ### a. Pourquoi devrait-on penser à notre alimentation ?
  La question de l’alimentation représente un sujet majeur de santé publique. L'alimentation constitue l'une des trois principales causes de morbidité, de mortalité prématurée et de handicap en Europe, selon l’étude Global Burden of Disease (GBD, 2016). De ce fait, la nutrition est un facteur de risque pour plusieurs troubles et maladies chroniques, dont l’obésité, le diabète, les maladies cardiovasculaires, ou certains types de cancers (Ebbeling, 2002 ; Lobstein, 2004). Ce constat est d’autant plus alarmant si l’on considère le fait que 47,3 % de la population française est en surpoids, et 17,0 % est obèse, selon une étude menée à l'initiative de la "Ligue Contre l'Obésité (Fontbonne, 2020). Les causes de cette prévalence de surpoids sont multiples et résultent d’un déséquilibre entre apport et dépense d’énergie. Dans ce contexte, l'étiquetage nutritionnel a émergé de manière progressive en tant que politique alimentaire et préventive majeure, pour faire face à ces nouveaux défis. Ce dernier vise une conscientisation des populations, leur permettant de prendre des décisions de consommation éclairées et plus équilibrées au quotidien. 
 
@@ -16,7 +16,7 @@ layout: page
 
 La signalétique du Nutri-Score attribue un score de A (“meilleure qualité nutritionnelle”) à E (“moins bonne qualité nutritionnelle”) aux produits alimentaires. Chaque lettre est accompagnée d'une couleur spécifique, allant du vert au rouge, pour évaluer la qualité nutritionnelle des aliments, en se basant sur une portion de 100 g (Ministère de la Santé et de la Prévention, 2023). Le calcul du score se fonde sur les données fournies par la déclaration nutritionnelle obligatoire associée à chaque produit alimentaire. Le Nutri-Score les classe alors en deux catégories de nutriments : ceux à favoriser, en l’occurrence les fruits, légumes, fibres, protéines, etc., et ceux à limiter, tels que le sucre, acides gras saturés, sel, etc. Le Nutri-Score n’a pas seulement vocation à permettre au consommateur de mieux connaître le profil nutritionnel global des denrées alimentaires. Il constitue une véritable norme qui oriente le choix des consommateurs vers la décision la plus favorable à leur santé, dans un contexte de surcharge informationnelle (Friant-Perrot, 2021).
 
-## 2. Construction du Nutri-Score : comment est fait le calcul? 
+## 2) Construction du Nutri-Score : comment est fait le calcul? 
  Comment est-il précisément calculé, le Nutri-Score ? Comme évoqué précédemment, la classification de la qualité nutritionnelle du produit varie de A à E, avec des couleurs allant du vert foncé au rouge, attribuées en fonction des points obtenus pour 100g. Le calcul se déroule en trois étapes distinctes.
 
 Dans la première étape, des points dits "négatifs" (N), représentant des nutriments dont la consommation est nuisible pour la santé, sont attribués en fonction de la quantité présente dans le produit. Chaque catégorie, comprenant les graisses saturées (g), les sucres simples (g), le sodium/sel (mg) et l'énergie (kJ), est évaluée de 0 à 10 points. Ainsi, le nombre maximal de points négatifs est de 40. Pour la deuxième étape, des points "positifs" (P), favorables à la santé, sont attribués de 0 à 5 pour chacun des éléments suivants : fibres, protéines, teneur en fruits, légumes, certaines huiles et noix (%). Le chiffre maximal possible à atteindre est de 15.
@@ -24,7 +24,7 @@ Dans la première étape, des points dits "négatifs" (N), représentant des nut
 Enfin, lors de la dernière étape, pour obtenir la valeur finale du Nutri-Score, il suffit de soustraire le nombre de points positifs obtenus dans la deuxième étape du nombre de points négatifs de la première étape. Sur une échelle allant de -15 à 40, plus le résultat est bas, meilleure est la qualité nutritionnelle. Une fois le calcul effectué, on associe la valeur nutritionnelle résultante à une lettre en fonction des seuils de classement suivants:
 ![screenshot](Nutriscore attribution des couleurs.jpg) 
 
-## 3. Le Nutri-Score : un outil dont la légitimité est débattue
+## 3) Le Nutri-Score : un outil dont la légitimité est débattue
 ### a. La perception divergente du Nutri-Score par l’industrie agro-alimentaire
  En termes de déploiement du Nutri-Score, l’industrie agro-alimentaire adopte deux positions opposées. Alors que plusieurs industriels soutiennent et participent activement au déploiement du Nutri-Score, certains lobbys agroalimentaires adoptent une posture de détracteurs. Cette divergence s’inscrit dans des considérations économiques, concurrentielles et stratégiques, ainsi que par la manière dont les entreprises évaluent l'impact de cet outil sur leur image de marque et leurs ventes (Sommier et al., 2021).
 
