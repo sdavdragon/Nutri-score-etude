@@ -46,3 +46,4 @@ Plus encore, les sondés révèlent une volonté de “sensibiliser et inciter �
 #### Un scepticisme croissant
 
 L’étude a en effet révélé une défiance grandissante auprès des jeunes consommateurs. Ainsi, 91.5% des sondés disent avoir déjà acheté un produit sur lequel figurait le Nutri-Score ; la présence de ce logo sur l’emballage ayant motivé l’achat à 69.5%. Néanmoins, l’opinion est davantage divisée dès lors que l’on parle de confiance. Seulement près de 41% disent avoir confiance en cet indicateur nutritionnel. 39% des sondés se disent neutre, et 20% disent manquer de confiance à l’égard du Nutri-Score.
+![Screenshot](https://github.com/sdavdragon/Nutri-score-etude/blob/1728c9f1603039507108f3b39dc77c7494c9ec0b/2023-12-07%20(2).png)
