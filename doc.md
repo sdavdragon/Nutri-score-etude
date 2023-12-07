@@ -4,3 +4,4 @@ layout: page
 --- 
 
 ![screenshot](declinaison-logo-nutriscore.jpg)
+## Synthèse des Résultats
