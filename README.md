@@ -24,8 +24,8 @@ Dans la première étape, des points dits "négatifs" (N), représentant des nut
 Enfin, lors de la dernière étape, pour obtenir la valeur finale du Nutri-Score, il suffit de soustraire le nombre de points positifs obtenus dans la deuxième étape du nombre de points négatifs de la première étape. Sur une échelle allant de -15 à 40, plus le résultat est bas, meilleure est la qualité nutritionnelle. Une fois le calcul effectué, on associe la valeur nutritionnelle résultante à une lettre en fonction des seuils de classement suivants:
 ![screenshot](Nutriscore attribution des couleurs.jpg) 
 
- ## 3. Le Nutri-Score : un outil dont la légitimité est débattue
- ### a. La perception divergente du Nutri-Score par l’industrie agro-alimentaire
+## 3. Le Nutri-Score : un outil dont la légitimité est débattue
+### a. La perception divergente du Nutri-Score par l’industrie agro-alimentaire
  En termes de déploiement du Nutri-Score, l’industrie agro-alimentaire adopte deux positions opposées. Alors que plusieurs industriels soutiennent et participent activement au déploiement du Nutri-Score, certains lobbys agroalimentaires adoptent une posture de détracteurs. Cette divergence s’inscrit dans des considérations économiques, concurrentielles et stratégiques, ainsi que par la manière dont les entreprises évaluent l'impact de cet outil sur leur image de marque et leurs ventes (Sommier et al., 2021).
 
 D’une part, le Nutri-Score a réussi à s'imposer dans l'industrie agroalimentaire. Alors qu'en 2018, seuls 70 exploitants le soutenaient, leur nombre est passé à 500 en 2020 (Halley Des Fontaines, 2023), et ce chiffre atteint les 989 exploitants engagés en juin 2022 (Narayanane, 2023). Le Nutri-Score couvre désormais une large gamme de produits alimentaires, avec 7 300 produits étiquetés en 2023 (Halley Des Fontaines, 2022). Similairement, le pourcentage du volume des ventes couvert par le Nutri-Score est passé de 23% en 2018 à 58% en 2022 (Narayanane, 2023). 
