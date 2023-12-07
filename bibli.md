@@ -1,4 +1,4 @@
 ---
 layout: page
-title: Nutri-score: un outil pour mieux manger ?
+title: Nutri-score: un outil pour mieux manger
 ---
