@@ -64,3 +64,7 @@ Ce manque de confiance et ces doutes vis-à-vis du Nutri-Score sont partagés pa
 #### Le Nutri-Score possède malgré tout une très bonne notoriété
 
 En effet, 78% des sondés pensent que cet indicateur est informatif. Le Nutri-Score apparaît facile à comprendre et utile, avec respectivement 66% et 64%. L’étude révèle également un certain scepticisme à l’égard du Nutri-Score, puisque 30% des jeunes pensent qu’il s’agit d’un indicateur controversé, mais aussi, imprécis (32%) et réducteur (24%). 
+
+![screenshot](graphique.png)
+
+Enfin, 84% des sondés sont favorables à l’apposition du Nutri-Score sur les emballages, sans pour autant nécessairement le rendre obligatoire.
