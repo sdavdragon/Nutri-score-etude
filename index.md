@@ -49,3 +49,18 @@ L’étude a en effet révélé une défiance grandissante auprès des jeunes co
 
 ![screenshot](nutriscoree.jpg)
 
+Les principales raisons soulevées sont les suivantes :
+
+➢ Manque de transparence et de précision concernant la méthode de calcul: comment sont évalués les produits ? Sur quels critères ? Sont-ils réellement pertinents ?
+
+➢ Outil de promotion pour les marques : le Nutri-Score ne ferait-il pas de publicité mensongère ?
+
+➢ Des prix plus élevés sur les produits au Nutri-Score élevé : le produit vaut-il vraiment le coût ?
+
+➢ Certains produits affichent leur Nutri-Score et d’autres non : n’est-ce pas juste un moyen de vendre ?
+
+Ce manque de confiance et ces doutes vis-à-vis du Nutri-Score sont partagés par la consommatrice interrogée, qui nous affirme avoir “souvent des doutes par rapport [...] à comment c'est calculé”. Celle-ci nous a fait part de sa surprise à la lecture de certains scores : “Il y a des produits où je me dis c’est sûr c’est plein de trucs mauvais pour soi et, lorsque je regarde, la note est de B et je me dis « c’est douteux ». Ou inversement”. Cependant, celle-ci explique tout de même que son niveau de confiance envers un Nutri-Score dépend du score en lui-même : “J’ai tendance à plus lui faire confiance quand c’est une mauvaise note parce que je me dis « bon au cas où ». Mais quand il lui donne une bonne note alors que j’ai l'impression que ce n’est pas bon, je commence à douter du système.” Cela rejoint le réel besoin de transparence et de précision concernant la méthode de calcul du Nutri-Score exprimé par les sondés.
+
+#### Le Nutri-Score possède malgré tout une très bonne notoriété
+
+En effet, 78% des sondés pensent que cet indicateur est informatif. Le Nutri-Score apparaît facile à comprendre et utile, avec respectivement 66% et 64%. L’étude révèle également un certain scepticisme à l’égard du Nutri-Score, puisque 30% des jeunes pensent qu’il s’agit d’un indicateur controversé, mais aussi, imprécis (32%) et réducteur (24%). 
