@@ -4,4 +4,4 @@ layout: page
 --- 
 
 ![screenshot](declinaison-logo-nutriscore.jpg)
-# IV. Bibliographie
+# IV. BIBLIOGRAPHIE
