@@ -84,3 +84,11 @@ Dans le cadre de notre étude, les résultats soulignent l'effet incitatif des s
 On constate des disparités liées au lieu de résidence, puisque, pour les individus résidant en région parisienne et dans de grandes villes, respectivement 76% et 72% déclarent que le Nutri-Score les a déjà incités à orienter leurs choix de consommation vers des produits affichant un meilleur notation Nutri-Score au sein d'une même catégorie de produits. En revanche, en milieu rural ou dans de petites villes, ce pourcentage n'est que de 33% (un écart qui mériterait une analyse approfondie dans des études futures). 
 
 De même, notre enquête met en lumière un pic d'utilisation du Nutri-Score chez les 22-25 ans pour effectuer des choix alimentaires plus sains, avec 83% d'entre eux déclarant que le Nutri-Score les a déjà encouragés à privilégier des produits affichant un meilleur score nutritionnel au sein d'une même catégorie.
+
+![screenshot](class.png)
+
+#### Modification sur le temps long des habitudes alimentaires
+
+Les résultats sur l'impact à long terme du Nutri-Score sur le changement des habitudes alimentaires présentent des conclusions contrastées : 45% des personnes interrogées via le questionnaire indiquent que le Nutri-Score ne contribue pas à modifier de manière durable certaines de leurs habitudes alimentaires, tandis que 54% affirment qu'il contribue déjà ou contribuera à l'avenir.
+
+Les résultats que nous avons obtenus sont significativement moins élevés que ceux présentés dans l'étude de Santé Publique France (2021), où 57 % des personnes interrogées ont déclaré que le Nutri-Score avait contribué à changer leurs habitudes d'achat (contre 41% dans notre étude).
