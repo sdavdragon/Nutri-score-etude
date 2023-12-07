@@ -39,6 +39,6 @@ Au vu des enjeux liés au Nutri-Score abordés jusqu'ici, il semblerait que plus
 
 
 
-![screenshot](https://github.com/sdavdragon/Nutri-score-etude/assets/106480826/1717caf8-0f68-42cf-83f9-6a4fb65f23c8)
+https://github.com/sdavdragon/Nutri-score-etude/assets/106480826/1717caf8-0f68-42cf-83f9-6a4fb65f23c8
 
 Kaoutar Laklalech - Sofya Davidovich - Raja Madani - Pauline Chatail - Célia Outemzabet - Yeon Hwa Kim
