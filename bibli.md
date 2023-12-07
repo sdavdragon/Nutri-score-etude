@@ -1,4 +1,6 @@
----
+--- 
+title: 'Nutri-score: un outil pour mieux manger ?'
 layout: page
-title: Nutri-Score: un outil pour mieux manger?
----
+--- 
+
+![screenshot](declinaison-logo-nutriscore.jpg)
