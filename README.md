@@ -9,6 +9,8 @@ layout: page
 # I. Présentation
 ## 1. Enjeux alimentaires et présentation du Nutri-Score
 ### a. Pourquoi devrait-on penser à notre alimentation ?
+La question de l’alimentation représente un sujet majeur de santé publique. L'alimentation constitue l'une des trois principales causes de morbidité, de mortalité prématurée et de handicap en Europe, selon l’étude Global Burden of Disease (GBD, 2016). De ce fait, la nutrition est un facteur de risque pour plusieurs troubles et maladies chroniques, dont l’obésité, le diabète, les maladies cardiovasculaires, ou certains types de cancers (Ebbeling, 2002 ; Lobstein, 2004). Ce constat est d’autant plus alarmant si l’on considère le fait que 47,3 % de la population française est en surpoids, et 17,0 % est obèse, selon une étude menée à l'initiative de la "Ligue Contre l'Obésité (Fontbonne, 2020). Les causes de cette prévalence de surpoids sont multiples et résultent d’un déséquilibre entre apport et dépense d’énergie. Dans ce contexte, l'étiquetage nutritionnel a émergé de manière progressive en tant que politique alimentaire et préventive majeure, pour faire face à ces nouveaux défis. Ce dernier vise une conscientisation des populations, leur permettant de prendre des décisions de consommation éclairées et plus équilibrées au quotidien. 
+
 Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
 
 ## Features
