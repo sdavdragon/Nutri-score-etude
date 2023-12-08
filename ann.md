@@ -36,6 +36,8 @@ Utile, informatif, facile à comprendre, réducteur, restrictif, transparent, ob
 
 #### Avez-vous d’autres remarques à ajouter ?
 
+### 2) Caractéristiques répondant
+
 | Quel âge avez-vous | Sexe | Lieu de vie (Taille d’agglomération) | Situation scolaire | Situation Professionnelle | Profession du parent référent |
 |:-------------------:|:----:|:-----------------------------------:|:------------------:|:-------------------------:|:-----------------------------:|
 |       10-14         | Femme| Rural | petite ville                 | Collège            | Job Etudiant/emploi à mi-temps | CSP + :                      |
@@ -44,5 +46,4 @@ Utile, informatif, facile à comprendre, réducteur, restrictif, transparent, ob
 |       22-25         |      |                                     | Autre              | Stage/Alternance          | Stage/Alternance             |
 |       26-30         |      |                                     |                    | Ne travaille pas          | Ne travaille pas             |
 |       Autre         |      |                                     |                    | Chômage                   |                             |
-
 
