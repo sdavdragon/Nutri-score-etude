@@ -38,6 +38,6 @@ Au vu des enjeux liés au Nutri-Score abordés jusqu'ici, il semblerait que plus
 
 
 
-[![Watch the video](https://img.youtube.com/vi/_zVlryawyVU/maxresdefault.jpg)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Watch the video](https://img.youtube.com/vi/_zVlryawyVU/maxresdefault.jpg)](https://www.youtube.com/watch?v=_zVlryawyVU)
 
 Kaoutar Laklalech - Sofya Davidovich - Raja Madani - Pauline Chatail - Célia Outemzabet - Yeon Hwa Kim
