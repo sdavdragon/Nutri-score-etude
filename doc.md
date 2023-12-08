@@ -5,7 +5,7 @@ layout: page
 
 ![screenshot](declinaison-logo-nutriscore.jpg)
 
-# III. SYNTHESE DES RESULTATS
+# SYNTHESE DES RESULTATS
 Cette étude a révélé que le Nutri-Score semble bénéficier d’une perception positive auprès d’une large part des jeunes interrogés. En effet, à travers son design simple et intuitif, celui-ci leur permet de s’informer davantage sur les apports nutritionnels des produits qu’ils consomment et de se sensibiliser à leurs impacts sur la santé.
 
 Le Nutri-Score est un outil que les jeunes ont tendance à utiliser et à prendre en considération lors de leurs achats. Il tend, dans une certaine mesure, à influencer et/ou déterminer les choix et arbitrages dans les habitudes de consommation. 
