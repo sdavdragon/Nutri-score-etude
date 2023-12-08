@@ -35,3 +35,14 @@ Utile, informatif, facile à comprendre, réducteur, restrictif, transparent, ob
 - Pensez-vous que le Nutri-Score devrait être obligatoire sur tous les produits alimentaires ? (oui, non, précisez :...)
 
 #### Avez-vous d’autres remarques à ajouter ?
+
+| Quel âge avez-vous | Sexe | Lieu de vie (Taille d’agglomération) | Situation scolaire | Situation Professionnelle | Profession du parent référent |
+|:-------------------:|:----:|:-----------------------------------:|:------------------:|:-------------------------:|:-----------------------------:|
+|       10-14         | Femme| Rural | petite ville                 | Collège            | Job Etudiant/emploi à mi-temps | CSP + :                      |
+|       15-17         | Homme| Moyenne | grande ville               | Lycée              | CDD                       | CSP - :                      |
+|       18-21         | Autre| Agglomération Parisienne            | Niveau Licence/Diplômé | CDI                       | CDI                          |
+|       22-25         |      |                                     | Autre              | Stage/Alternance          | Stage/Alternance             |
+|       26-30         |      |                                     |                    | Ne travaille pas          | Ne travaille pas             |
+|       Autre         |      |                                     |                    | Chômage                   |                             |
+
+
