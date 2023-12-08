@@ -4,7 +4,7 @@ layout: page
 --- 
 
 ![screenshot](declinaison-logo-nutriscore.jpg)
-## V. ANNEXE
+## ANNEXE
 ### 1) Questionnaire
 
 #### Démographie
