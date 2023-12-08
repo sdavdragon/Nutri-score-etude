@@ -46,9 +46,7 @@ layout: page
 |       22-25         |       |                                     | Autre                       | Stage/Alternance              |                              |
 |       26-30         |       |                                     |                             | Ne travaille pas              |                              |
 |       Autre         |       |                                     |                             | Chômage                      |                              |
-|                   |       |                                     |                             | CDI                         |                              |
-|                   |       |                                     |                             | Stage/Alternance            |                              |
-|                   |       |                                     |                             | Ne travaille pas            |                              |
+
 
 
 Kaoutar Laklalech - Sofya Davidovich - Raja Madani - Pauline Chatail - Célia Outemzabet - Yeon Hwa Kim
