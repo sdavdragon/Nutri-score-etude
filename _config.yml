@@ -16,11 +16,11 @@ minimal: true             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md", title: "I. Présentation"}
-  - {file: "README.md", title: "II. Notre Etude"} 
-  - {file: "doc.md", title: "III. Résultats"}
-  - {file: "bibli.md", title: "IV. Bibliographie"}
-  - {file: "ann.md", title: "V. Annexe"}
+  - {file: "index.md", title: "Présentation"}
+  - {file: "README.md", title: "Notre Etude"} 
+  - {file: "doc.md", title: "Résultats"}
+  - {file: "bibli.md", title: "Bibliographie"}
+  - {file: "ann.md", title: "Annexe"}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Github, icon: github, url: "https://github.com/sdavdragon/contrast"}
   
