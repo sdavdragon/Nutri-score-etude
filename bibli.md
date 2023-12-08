@@ -68,3 +68,6 @@ Sommier, B., Guillemot, S., Chédotal, C. & Tamaro, A., 2021. La qualité alimen
 Soutjis, B., 2022. Négocier la transparence des filières alimentaires: Le cas de l’échange de données relatives aux OGM et au Nutri-Score entre l’industrie et le commerce. Revue d'anthropologie des connaissances 1-16. 
 
 Turck, D., Bohn, T., Castenmiller, J., de Henauw, S., Hirsch‐Ernst, K.I., Knutsen, H.K., Maciuk, A., Mangelsdorf, I., McArdle, H.J., Naska, A., Peláez, C., Pentieva, K., Thies, F., Tsabouri, S., Vinceti, M., Bresson, J., Siani, A., 2022. Scientific advice related to nutrient profiling for the development of harmonised mandatory front‐of‐pack nutrition labelling and the setting of nutrient profiles for restricting nutrition and health claims on foods. EFS2 20. 
+
+
+Kaoutar Laklalech - Sofya Davidovich - Raja Madani - Pauline Chatail - Célia Outemzabet - Yeon Hwa Kim
