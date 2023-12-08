@@ -4,7 +4,7 @@ title: 'Nutri-score: un outil pour mieux manger ?'
 ---
 
 ![screenshot](declinaison-logo-nutriscore.jpg)
-# II. NOTRE ETUDE
+# NOTRE ETUDE
 ## 1) Description
 ### a. Objectifs
 
