@@ -4,7 +4,7 @@ layout: page
 --- 
 
 ![screenshot](declinaison-logo-nutriscore.jpg)
-# IV. BIBLIOGRAPHIE
+# BIBLIOGRAPHIE
 Andreeva, V.A., Egnell, M., Touvier, M., Galan, P., Julia, C., Hercberg, S., 2021. International evidence for the effectiveness of the front-of-package nutrition label called Nutri-Score. Cent Eur J Public Health 29, 76–79.
 
 Benamouzig, D., Blanck, J., 2023. La bataille cognitive des logos nutritionnels: Sciences et intérêts économiques en santé publique. L’Année sociologique Vol. 73, 295–325. 
