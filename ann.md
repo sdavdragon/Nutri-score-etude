@@ -8,31 +8,31 @@ layout: page
 ### 1) Questionnaire
 
 #### Démographie
-- Tranche d’âge (mettre âge à remplir ?)
+- Tranche d’âge
 - Sexe
-- Situation professionnelle : Collège, Lycée, Université, CDD, CDI, Retraité, Chômage, Autre
+- Situation professionnelle 
 - Fréquence d’achats alimentaires par semaine/mois
 
 #### Sensibilité Qualité Nutrition
-- Regardez-vous la composition nutritionnelle des produits que vous achetez ? Toujours, Parfois, Jamais 
+- Regardez-vous la composition nutritionnelle des produits que vous achetez ? (Toujours, Parfois, Jamais)
 - Pratiquez vous du sport ? 
-- Suivez-vous un régime alimentaire spécifique ? Oui / Non
+- Suivez-vous un régime alimentaire spécifique ? (Oui, Non)
 
 #### Connaissance du Nutri-Score
-- Avez-vous déjà entendu parler du Nutri-Score ? (oui, non)
+- Avez-vous déjà entendu parler du Nutri-Score ? (Oui, Non)
 - Si oui, à quelle occasion ? (Milieu professionnel/académique, Média (TV, Presse, Radio, Affichage), En magasin, Entourage ou bouche à oreille, Recherche/site internet, Autre)
 - Pouvez-vous expliquer en quelques mots ce que vous comprenez du Nutri-Score ?
 
 #### Utilisation du Nutri-Score et comportement d’achat
-- Consultez-vous régulièrement le Nutri-Score lors de l'achat de produits alimentaires ? (oui, non)
-- A quelle fréquence le Nutri-Score influence-t-il votre choix lors de l'achat de produits alimentaires ? (Fréquemment, occasionnellement, rarement, jamais)
-- Avez-vous déjà modifié votre choix de produit en fonction du Nutri-Score ? (oui, non, précisez :…)
+- Consultez-vous régulièrement le Nutri-Score lors de l'achat de produits alimentaires ? (Oui, Non)
+- A quelle fréquence le Nutri-Score influence-t-il votre choix lors de l'achat de produits alimentaires ? (Fréquemment, Occasionnellement, Rarement, Jamais)
+- Avez-vous déjà modifié votre choix de produit en fonction du Nutri-Score ? (Oui, Non, Précisez :…)
 
 #### Opinions et perceptions
 - Sur une échelle de 1 à 10, à quel point pensez-vous que le Nutri-Score reflète correctement la qualité nutritionnelle des produits ?
 - A partir des adjectifs suivants, diriez-vous que le Nutri-Score est … ?
-Utile, informatif, facile à comprendre, réducteur, restrictif, transparent, objectif, controversé, responsabilisant, sain, imprécis.
-- Pensez-vous que le Nutri-Score devrait être obligatoire sur tous les produits alimentaires ? (oui, non, précisez :...)
+(Utile, Informatif, Facile à comprendre, Réducteur, Restrictif, Transparent, Objectif, Controversé, Responsabilisant, Sain, Imprécis)
+- Pensez-vous que le Nutri-Score devrait être obligatoire sur tous les produits alimentaires ? (Oui, Non, Précisez :...)
 
 #### Avez-vous d’autres remarques à ajouter ?
 
